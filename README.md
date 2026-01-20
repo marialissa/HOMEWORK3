@@ -20,9 +20,9 @@ library(palmerpenguins);
 penguins_data <-na.omit(penguins)
 
 ### Contribuições dos membros:
-Lorena: 
+Lorena: questão 1
 
-Maria Lissa: 
+Maria Lissa: questão 2
 
 ### Uso da IA no trabalho:
 
